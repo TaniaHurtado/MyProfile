@@ -1,0 +1,21 @@
+
+title: My Resume
+url: 'http://junlulocky.com'
+baseurl: '/MyProfile' #change it according to your repository name
+
+
+
+# Profile information
+yourname: Tania Hurtado  ## put your name
+title: 'Mi Perfil Profesional'  ## your title
+location: Bogotá - Colombia
+
+
+## Social Profiles
+facebook: https://www.facebook.com/taniapaola.hurtadopinto  ## your facebook account url
+twitter: https://twitter.com/AleyaHur?lang=es  ## your twitter account url
+linkedin: https://www.linkedin.com/in/tania-paola-hurtado-pinto-216ab767/  ## your linkedin account url
+
+
+
+# Update all the sections by editing the files inside _includes folder.
